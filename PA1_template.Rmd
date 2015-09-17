@@ -2,7 +2,7 @@
 title: "Peer Assignment 1"
 output: 
   html_document: 
-    self_contained: no
+    keep_md: yes
 ---
 
 # Introduction
