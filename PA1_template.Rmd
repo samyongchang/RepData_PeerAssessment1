@@ -1,6 +1,8 @@
 ---
 title: "Peer Assignment 1"
-output: html_document
+output: 
+  html_document: 
+    self_contained: no
 ---
 
 # Introduction
